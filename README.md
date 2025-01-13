@@ -1,12 +1,12 @@
 # pythonportfolio
 This is where I store my python projects.
 **#NameGenerator.py**
-**Summary**this genarates a character from the show gossip girl based on a series of questions
+**Summary** This genarates a character from the show gossip girl based on a series of questions
 **Key Features**
 -asks questions one at a time and shows how answers should be formatted
 -returns character name
 **#calculator.py**
-**Summary** computes mathmatical functions for the four main calculator functions
+**Summary** Computes mathmatical functions for the four main calculator functions
 **Key Features**
 -welcomes user
 -gives the user a menu of options
